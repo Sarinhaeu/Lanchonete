@@ -102,3 +102,4 @@ se (ce<vtc) entao
 fimse
 
 Fimalgoritmo
+teste do git gui/git hub
